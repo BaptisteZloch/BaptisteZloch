@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [**Resume here**]()
 
-- ⚡ Fun fact **I started on YouTube with 2 channel [ZlochTeamAstro](https://www.youtube.com/channel/UCaPGRabUbcB_yHZmnKGJHcw) and [MakeIT](https://www.youtube.com/channel/UC_z_SHFipTRltrwM6T_KsFg)** ¯\\_ (ツ) _/¯
+- ⚡ Fun fact **I started on YouTube with 2 channels [ZlochTeamAstro](https://www.youtube.com/channel/UCaPGRabUbcB_yHZmnKGJHcw) and [MakeIT](https://www.youtube.com/channel/UC_z_SHFipTRltrwM6T_KsFg)** ¯\\_ (ツ) _/¯
 
 
 <p align="center">
