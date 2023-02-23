@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bzloch@hotmail.fr**
 
-- 📄 Know about my experiences [**Resume here**]()
+- 📄 Know about my experiences [**Resume here**](https://github.com/BaptisteZloch/BaptisteZloch/raw/main/Baptiste_Zloch_resume.pdf)
 
 - ⚡ Fun fact **I started on YouTube with 2 channels [ZlochTeamAstro](https://www.youtube.com/channel/UCaPGRabUbcB_yHZmnKGJHcw) and [MakeIT](https://www.youtube.com/channel/UC_z_SHFipTRltrwM6T_KsFg)** ¯\\_ (ツ) _/¯
 
