@@ -24,10 +24,10 @@
 <a href="https://github-readme-stats.vercel.app/api?username=BaptisteZloch&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=BaptisteZloch&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
+  <img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteZloch&layout=compact&hide_border=true&langs_count=6&hide=tex,css,php,html">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=BaptisteZloch&hide_border=true">
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=BaptisteZloch&hide_border=true" />
 </a>
-<br>
-<img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteZloch&layout=compact&hide_border=true&langs_count=6&hide=tex,css,php,html">
+
 
 </p>
