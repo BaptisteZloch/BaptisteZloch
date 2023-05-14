@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baptiste Zloch</h1>
 
-<h3 align="center">✨ Data Scientist | Quantitative Developer | Backend developer ✨</h3>
+<h3 align="center">✨ Data Scientist | Quantitative Analyst | Quantitative Developer ✨</h3>
 
 <p align="center">
 <a href="https://twitter.com/BaptisteZloch" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" alt="BaptisteZloch" height="30" width="40" /></a>
