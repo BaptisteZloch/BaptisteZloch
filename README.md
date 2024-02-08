@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baptiste Zloch</h1>
 
-<h3 align="center">✨ Data Scientist | Quantitative Analyst | Quantitative Developer ✨</h3>
+<h3 align="center">✨ Portfolio Management | Quantitative Research | Data Science ✨</h3>
 
 <p align="center">
 <a href="https://twitter.com/BaptisteZloch" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" alt="BaptisteZloch" height="30" width="40" /></a>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Medium articles to share content about **Quantitative Finance**
 
-- 🌱 I’m currently studying Computer Science at **CentraleSupelec**
+- 🌱 I’m currently studying Quantitative finance at **Paris-Dauphine University**, before I studied Computer Science and Data Science at **CentraleSupelec** and **EPF**
 
 - 💬 Ask me about **Programming, Computer Science, Quantitative finance, Astronomy, Astrophotography or 3D printing...**. (I'm always glad to learn new things)
 
